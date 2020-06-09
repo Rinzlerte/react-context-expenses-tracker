@@ -46,7 +46,7 @@ export const AddTransaction = () => {
                         placeholder="Enter amount..." 
                     />
                 </div>
-                <button className="btn" type="submit">Add transaction</button>
+                <button className="btn" type="submit">ADD</button>
             </form>
         </React.Fragment>
     )
